@@ -1,1 +1,1 @@
-# ChatGPT_as_Keyphrase_Generator
+# Is ChatGPT A Good Keyphrase Generator? A Preliminary Study
